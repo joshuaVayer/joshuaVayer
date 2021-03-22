@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HNTQ&show_icons=true&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact&theme=graywhite)
+![Stats](https://github-readme-stats.vercel.app/api?username=joshuaVayer&show_icons=true&count_private=true&hide=stars&include_all_commits=true&show_icons=true&layout=compact&theme=graywhite)
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshuaVayer)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **joshuaVayer/joshuaVayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
